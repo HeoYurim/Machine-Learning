@@ -1,1 +1,12 @@
 # Colab
+2021_09_10_1_Start_Example.ipynb
+2021_09_10_2_trainSet_testSet.ipynb
+2021_09_10_3_Preprocessing.ipynb
+2021_09_17_DataProcessing.ipynb
+2021_09_21_DataProcessing.ipynb
+2021_09_24_회귀_알고리즘.ipynb
+2021_10_01_회귀_알고리즘.ipynb
+2021_10_15_SVM.ipynb
+2021_11_05_트리_알고리즘.ipynb
+2021_11_12_군집_알고리즘.ipynb
+2021_11_19_비지도학습.ipynb
